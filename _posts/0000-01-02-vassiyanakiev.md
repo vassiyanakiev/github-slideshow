@@ -2,7 +2,7 @@
 
 layout: slide
 title: "Welcome to our second slide!"
-"Today is a beautiful day to be alice" 
+Today is a beautiful day to be alice 
 ---
 
 Your text
