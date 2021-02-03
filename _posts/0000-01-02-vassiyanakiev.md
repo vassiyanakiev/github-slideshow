@@ -5,6 +5,6 @@ title: "Welcome to my GitHubVassi slide!"
 Today is a beautiful day to be alice 
 ---
 
-Your text
+This is my awesome slide
 
 Use the left arrow to go back!
